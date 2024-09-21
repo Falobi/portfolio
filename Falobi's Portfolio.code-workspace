@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../Desktop/Falobi's Portfolio"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Template 1"
+  }
+}
